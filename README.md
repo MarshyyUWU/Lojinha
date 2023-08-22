@@ -1,7 +1,31 @@
 # Lojinha
 Trabalho de recuperação do segundo trimestre. Sobre documentar as coisas no readme.
 
-# DOCUMENTAÇÃO
+
+# Instalação
+
+Aqui começamos a explicar as coisas e o que fazer. 
+Para tudo funcionar após você ter instalado, verifique os arquivos conectados, se etão no lugar certo e com nomes certos conectados ao html.
+
+
+# Construído com:
+
+-Visual Studio Code  1.80.2 V8
+
+
+# Versão
+
+Esse projeto foi construído No Visual Studio Code V8
+
+# Autores
+
+participantes do projeto que ajudaram a continuar:
+
+- ProgramadorEspartano - Desenvolvedor - ProgramadorEspartano
+- Marsh - Documentador - EU!
+
+
+# DOCUMENTAÇÃO ENQUANTO PROJETO
 
 - 7:20 - 15/08/2023
 Abri o video e comecei a copiar o código do Programador apra conseugir documentar cada passo, mas facil acesso.
@@ -27,3 +51,7 @@ Imagens foram postas e centralizadas.
 
 - 7:40 - 22/08/2023
 Agora com JavaScript incluido.
+
+# Obrigado!
+
+Espero que eu receba uma boa nota, pois mesmo eu não sabendo a documenação certa no início, tentei fazer tudo ficar coerente ao exemplo demonstrado.
