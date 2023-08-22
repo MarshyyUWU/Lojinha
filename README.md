@@ -1,6 +1,6 @@
 # Lojinha
 Trabalho de recuperação do segundo trimestre. Sobre documentar as coisas no readme.
-
+ - Informações para o Professor: O JavaScript não está inteiro, e logo não está funcionando igualmente ao video, pois o desenvolvedor do código não ensina a funcionar.
 
 # Instalação
 

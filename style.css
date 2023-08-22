@@ -1,7 +1,7 @@
 * {
     Margin: 0;
 }
-
+ /*Body da Página*/
 body {
     font-family: 'Oxygen', sans-serif;
     background-color: #fafbfc;
@@ -16,7 +16,7 @@ header {
 main {
     padding: 30px 50px;
 }
-
+/* Inicio da Tabela*/
 .card{
     background-color: #fff;
     border: 1px solid #ccc;
@@ -36,7 +36,7 @@ input{
     border-radius: 3px;
     outline: 0;
 }
-
+ /*Botões*/
 button{
     border: 0px;
     padding: 10px;
@@ -56,7 +56,7 @@ button:hover{
     margin-top: 15px;
 }
 
-/* COMANDOS PARA LISTA*/
+/*COMANDOS PARA LISTA*/
 table{
     border-collapse: collapse;
     border: 1px solid #ccc;
