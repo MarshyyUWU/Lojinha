@@ -2,7 +2,7 @@
 
 [Lojinha Documentada](#lojinha-documentada)  
 [Descrição](#descri%C3%A7%C3%A3o)  
-[Instalação]()  
+[Instalação](#instala%C3%A7%C3%A3o)  
 [Tecnologias utilizadas]()  
 [Autores](#autores)  
 [Documentação enquanto projeto]()  
